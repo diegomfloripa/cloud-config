@@ -16,7 +16,8 @@ git clone https://github.com/diegomfloripa/cloud-config.git
 Abra a pasta do projeto
 ````
 cd cloud-config
-````rodar com maven
+````
+rodar com maven
 ```
 mvn spring-boot:run
 ```
